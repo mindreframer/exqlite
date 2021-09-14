@@ -39,7 +39,7 @@ defmodule Exqlite.MixProject do
       {:db_connection, "~> 2.1"},
       {:ex_sqlean,
        github: "mindreframer/ex_sqlean",
-       ref: "ac2af2231ec8994b2249f8cda2db931044b19ed0",
+       ref: "13b6caf",
        only: [:dev, :test]},
       {:elixir_make, "~> 0.6", runtime: false},
       {:ex_doc, "~> 0.24", only: :dev, runtime: false},
